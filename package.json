@@ -19,7 +19,8 @@
   },
   "devDependencies": {
     "@storybook/builder-vite": "^10.1.3",
-    "@types/node": "^24.10.1"
+    "@types/node": "^24.10.1",
+    "vite-tsconfig-paths": "^5.1.4"
   },
   "dependencies": {
     "@robocotik/react": "^1.6.0",

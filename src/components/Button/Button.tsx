@@ -1,5 +1,5 @@
 import { Component } from '@robocotik/react';
-import clsx from "../../modules/clsx";
+import clsx from "@/modules/clsx";
 import styles from './Button.module.scss';
 
 interface ButtonProps {
